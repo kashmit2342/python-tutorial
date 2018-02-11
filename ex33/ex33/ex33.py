@@ -13,4 +13,5 @@ for number in numbers:
 
 print(f"all numbers {numbers}")
 
+print(numbers[2])
 
